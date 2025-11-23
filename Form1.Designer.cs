@@ -68,7 +68,7 @@
             "Tecnología",
             "Alimento",
             "General"});
-            this.cmbTipoProducto.Location = new System.Drawing.Point(49, 159);
+            this.cmbTipoProducto.Location = new System.Drawing.Point(51, 177);
             this.cmbTipoProducto.Name = "cmbTipoProducto";
             this.cmbTipoProducto.Size = new System.Drawing.Size(160, 24);
             this.cmbTipoProducto.TabIndex = 4;
@@ -106,7 +106,7 @@
             // lblTipoProducto
             // 
             this.lblTipoProducto.AutoSize = true;
-            this.lblTipoProducto.Location = new System.Drawing.Point(35, 130);
+            this.lblTipoProducto.Location = new System.Drawing.Point(39, 137);
             this.lblTipoProducto.Name = "lblTipoProducto";
             this.lblTipoProducto.Size = new System.Drawing.Size(189, 16);
             this.lblTipoProducto.TabIndex = 8;
@@ -116,7 +116,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1036, 450);
+            this.ClientSize = new System.Drawing.Size(273, 450);
             this.Controls.Add(this.lblTipoProducto);
             this.Controls.Add(this.lnlPrecioProducto);
             this.Controls.Add(this.lblNombreProducto);
